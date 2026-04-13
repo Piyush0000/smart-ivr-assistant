@@ -1,0 +1,30 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.lucide
+
+# Temporary Audio Artifacts (IVR specific)
+response_*.mp3
+temp_*.wav
+*.mp3
+*.wav
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
